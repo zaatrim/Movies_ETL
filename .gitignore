@@ -80,6 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+config.py
 
 # pyenv
 .python-version
@@ -127,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large files
+ratings.csv
+movies_metadata.csv
